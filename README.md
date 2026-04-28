@@ -8,25 +8,33 @@ Java-разработчик, фокус на бэкенд и алгоритмы.
 - **Алгоритмы и структуры данных**
 - **Spring Boot** — начальный уровень, изучаю
 
+---
+
 ## Главный проект: AlgorithmsAndDataStructures
 Я собрал свой путь по алгоритмам. Выстроил всё в порядке изучения: сначала теория, потом пишу руками, потом задачи на LeetCode и CodeWars. Иду от простого к сложному, стараюсь не прыгать.
 Сейчас углубляю знания — прохожу второй круг. Первый раз брал задачи по мере встречи, набрал опыт, но знания были разрозненными. Теперь возвращаюсь с начала и собираю всё в одну картину. Дошёл до сортировки слиянием.
 
-https://github.com/MorgachevAleksey/AlgorithmsAndDataStructures
+[AlgorithmsAndDataStructures](https://github.com/MorgachevAleksey/AlgorithmsAndDataStructures)
+
+---
 
 ## Проект: Nexus
 Терминальный симулятор формальной логики. Парсер логических формул, построение AST, вычисление таблиц истинности.
 
 **Статус:** прототип, дорабатываю парсер для поддержки всех логических операций
 
-https://github.com/MorgachevAleksey/Nexus
+[Nexus](https://github.com/MorgachevAleksey/Nexus)
+
+---
 
 ## Проект: Java
 Проект-библиотека для структуризации знаний по Java Core: примитивы, строки, массивы, коллекции, основы ООП.
 
 **Статус:** справочник по Core, пополняю по мере изучения
 
-https://github.com/MorgachevAleksey/Java
+[Java](https://github.com/MorgachevAleksey/Java)
+
+---
 
 ## Проект: Sponk
 
@@ -34,8 +42,10 @@ https://github.com/MorgachevAleksey/Java
 
 **Статус:** заготовка проекта, нахожусь в процессе изучения Spring Boot
 
-https://github.com/MorgachevAleksey/Sponk
+[Sponk](https://github.com/MorgachevAleksey/Sponk)
+
+---
 
 ## Контакты
-- Telegram: [@NikTelegii]
+- Telegram: [@NikTelegii](https://t.me/NikTelegii)
 - Почта: morgachev_aleksey@mail.ru
