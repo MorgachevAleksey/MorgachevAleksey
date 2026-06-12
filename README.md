@@ -10,6 +10,16 @@ Java-разработчик, фокус на бэкенд и алгоритмы.
 
 ---
 
+## Проект: Fall
+
+Корпоративный депозитный калькулятор на SpringBoot.
+
+**Статус:** в активной разработке
+
+[Fall](https://github.com/MorgachevAleksey/Fall)
+
+---
+
 ## Проект: AlgorithmsAndDataStructures
 
 Я собрал свой путь по алгоритмам. Выстроил всё в порядке изучения: сначала теория, потом пишу руками, потом задачи на LeetCode и CodeWars. Иду от простого к сложному, стараюсь не прыгать.
@@ -18,16 +28,6 @@ Java-разработчик, фокус на бэкенд и алгоритмы.
 **Статус:** пополняю по мере изучения и решения алгоритмических задач
 
 [AlgorithmsAndDataStructures](https://github.com/MorgachevAleksey/AlgorithmsAndDataStructures)
-
----
-
-## Проект: ZinsesKraft
-
-Калькулятор сложного процента на Spring Boot.
-
-**Статус:** активная разработка, сейчас — каркас и контракт входа
-
-[ZinsesKraft](https://github.com/MorgachevAleksey/ZinsesKraft)
 
 ---
 
