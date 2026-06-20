@@ -31,6 +31,12 @@ Java-разработчик, фокус на бэкенд и алгоритмы.
 
 ---
 
+## Также
+
+[Java](https://github.com/MorgachevAleksey/Java) — личная библиотека материалов и практики по Java Core
+
+---
+
 ## Контакты
 - Telegram: [@NikTelegii](https://t.me/NikTelegii)
 - Почта: morgachev_aleksey@mail.ru
