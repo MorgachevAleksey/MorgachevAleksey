@@ -61,16 +61,6 @@ Java-разработчик, фокус на бэкенд и алгоритмы.
 
 ---
 
-## Проект: Fall
-
-Корпоративный депозитный калькулятор на Spring Boot.
-
-**Статус:** в разработке
-
-[Fall](https://github.com/MorgachevAleksey/Fall)
-
----
-
 ## Проект: AlgorithmsAndDataStructures
 
 Я собрал свой путь по алгоритмам. Выстроил всё в порядке изучения: сначала теория, потом пишу руками, потом задачи на LeetCode и CodeWars. Иду от простого к сложному, стараюсь не прыгать.
@@ -84,7 +74,11 @@ Java-разработчик, фокус на бэкенд и алгоритмы.
 
 ## Также
 
-[Java](https://github.com/MorgachevAleksey/Java) — личная библиотека материалов и практики по Java Core
+[Java](https://github.com/MorgachevAleksey/Java) - личная библиотека материалов и практики по Java Core
+
+[SQL](https://github.com/MorgachevAleksey/SQL) - личная библиотека материалов и практики по SQL
+
+[N](https://github.com/MorgachevAleksey/N) - проект инвестиционного симулятора, находящийся на ранней стадии разработки
 
 ---
 
