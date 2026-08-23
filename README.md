@@ -72,13 +72,17 @@ Java-разработчик, фокус на бэкенд и алгоритмы.
 
 ---
 
+## Проект: N
+
+Прототип проекта инвестиционного симулятора, находящийся на ранней стадии разработки
+
+[N](https://github.com/MorgachevAleksey/N)
+
+---
+
 ## Также
 
-[Java](https://github.com/MorgachevAleksey/Java) - личная библиотека материалов и практики по Java Core
-
-[SQL](https://github.com/MorgachevAleksey/SQL) - личная библиотека материалов и практики по SQL
-
-[N](https://github.com/MorgachevAleksey/N) - проект инвестиционного симулятора, находящийся на ранней стадии разработки
+[Fundamentals](https://github.com/MorgachevAleksey/Fundamentals) - личная библиотека материалов и практик
 
 ---
 
