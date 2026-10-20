@@ -48,8 +48,6 @@ Java 21, Spring Boot 4, PostgreSQL, Flyway, JPA/Hibernate, Docker, Gradle
 
 [Fundamentals](https://github.com/MorgachevAleksey/Fundamentals) - личная библиотека материалов и практик
 
-[UniverJava](https://github.com/MorgachevAleksey/UniverJava) - собрание практик университетского курса программирования на языке java
-
 ---
 
 ## Контакты
